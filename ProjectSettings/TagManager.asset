@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Attack
+  - Wall
+  - Floor
+  - Coin
+  - Item
+  - Weapon
+  - Enemy
+  - FxTemporaire
+  - Skill
+  - Bullet
+  - Bomb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Player
+  - Wall
+  - Item
+  - Weapon
+  - Enemy
+  - EnemyDied
+  - Skill
+  - Bullet
+  - Bomb
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
